@@ -5,3 +5,4 @@ const calcaveragethesismarks = (NoOfGroups, TotalMark) => {
 }
 
 module.exports = calcaveragethesismarks
+
